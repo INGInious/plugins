@@ -18,8 +18,8 @@ Feel free to contact us or directly do a PR on this repository!
 
 # Categories
 
-- Problem types
-- Other plugins
+- [Problem types](#problem-types)
+- [Other plugins](#other-plugins)
 
 # Problem types
 
