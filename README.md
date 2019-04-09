@@ -49,7 +49,7 @@ Feel free to contact us or directly do a PR on this repository!
 
 | Name | Network trace |
 | :---- | ------------------------------------- |
-| Link | https://github.com/UCL-INGI/INGInious-problems-network-trace.git |
+| Link | https://github.com/CNP3/INGInious-problems-network-trace.git |
 | Description | Displays a partially-hiden trace of a network protocol that will be completed by students |
 | License | AGPL 3.0 |
 | Maintainer | UCLouvain - INGI
