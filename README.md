@@ -23,6 +23,15 @@ Feel free to contact us or directly do a PR on this repository!
 
 # Problem types
 
+| Name | Fill-in the blanks |
+| :---- | ------------------------------------- |
+| Link | https://github.com/layus/inginious-problem-code-fill |
+| Description | Mark some portions of text as read-only to make students fill the blanks within existing code or context. |
+| License | AGPL 3.0 |
+| Maintainer | ??? - (You may get help from @layus though)
+| Authors | Guillaume Maudoux (@layus)
+
+
 | Name | Blockly |
 | :---- | ------------------------------------- |
 | Link | https://github.com/UCL-INGI/INGInious-problems-blockly |
