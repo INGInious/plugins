@@ -83,3 +83,11 @@ Feel free to contact us or directly do a PR on this repository!
 | License | AGPL 3.0 |
 | Maintainer | UCLouvain - INGI
 | Authors | Guillaume Derval (@GuillaumeDerval)
+
+| Name | Reporting |
+| :---- | ------------------------------------- |
+| Link | https://github.com/UCL-INGI/Reporting-INGInious-plugin |
+| Description | Display histogram for data analysis of INGInious submissions |
+| License | AGPL 3.0 |
+| Maintainer | UCLouvain - INGI
+| Authors | Ludovic Taffin (@Drumor)
