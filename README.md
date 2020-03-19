@@ -91,3 +91,12 @@ Feel free to contact us or directly do a PR on this repository!
 | License | AGPL 3.0 |
 | Maintainer | UCLouvain - INGI
 | Authors | Ludovic Taffin (@Drumor)
+
+
+| Name | Auto-Evaluation |
+| :---- | ------------------------------------- |
+| Link | https://github.com/UCL-INGI/INGInious-auto-evaluation-plugin |
+| Description | A plugin that allows students to evaluate their work with other students |
+| License | AGPL 3.0 |
+| Maintainer | UCLouvain - INGI
+| Authors | Ludovic Taffin (@Drumor)
