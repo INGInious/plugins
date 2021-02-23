@@ -23,6 +23,14 @@ Feel free to contact us or directly do a PR on this repository!
 
 # Problem types
 
+| Name | Math formulae |
+| :---- | ------------------------------------- |
+| Link | https://github.com/UCL-INGI/INGInious-problems-math |
+| Description | Allows students to answer with math formulae thanks to a visual editor. Configured as MCQ, automatically grades the problems using symbolic comparison with the expected answer(s) |
+| License | AGPL 3.0 |
+| Maintainer | UCLouvain - INGI
+| Authors | Anthony Gégo (@anthonygego)
+
 | Name | Fill-in the blanks |
 | :---- | ------------------------------------- |
 | Link | https://github.com/layus/inginious-problem-code-fill |
@@ -75,6 +83,13 @@ Feel free to contact us or directly do a PR on this repository!
 
 # Other plugins 
 
+| Name | Exams (supports Safe Exam Browser) |
+| :---- | ------------------------------------- |
+| Link | https://github.com/UCL-INGI/INGInious-exam-plugin |
+| Description | Restricts access to the course during exam periods. Compatible with Safe Exam Browser key mechanism. |
+| License | AGPL 3.0 |
+| Maintainer | UCLouvain - INGI
+| Authors | Anthony Gégo (@anthonygego)
 
 | Name | Highlight |
 | :---- | ------------------------------------- |
