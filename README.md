@@ -85,33 +85,48 @@ Feel free to contact us or directly do a PR on this repository!
 
 | Name | Exams (supports Safe Exam Browser) |
 | :---- | ------------------------------------- |
-| Link | https://github.com/UCL-INGI/INGInious-exam-plugin |
+| Link | https://github.com/INGInious/plugin-exam |
 | Description | Restricts access to the course during exam periods. Compatible with Safe Exam Browser key mechanism. |
 | License | AGPL 3.0 |
-| Maintainer | UCLouvain - INGI
+| Maintainer | INGInious authors
 | Authors | Anthony Gégo (@anthonygego)
 
 | Name | Highlight |
 | :---- | ------------------------------------- |
-| Link | https://github.com/UCL-INGI/INGInious-highlight-plugin |
+| Link | https://github.com/INGInious/plugin-highlight |
 | Description | Highlight lines of code from your grader |
 | License | AGPL 3.0 |
-| Maintainer | UCLouvain - INGI
+| Maintainer | INGInious authors
 | Authors | Guillaume Derval (@GuillaumeDerval)
 
 | Name | Reporting |
 | :---- | ------------------------------------- |
-| Link | https://github.com/UCL-INGI/Reporting-INGInious-plugin |
+| Link | https://github.com/INGInious/plugin-reporting |
 | Description | Display histogram for data analysis of INGInious submissions |
 | License | AGPL 3.0 |
-| Maintainer | UCLouvain - INGI
+| Maintainer | INGInious authors
 | Authors | Ludovic Taffin (@Drumor)
-
 
 | Name | Auto-Evaluation |
 | :---- | ------------------------------------- |
-| Link | https://github.com/UCL-INGI/INGInious-auto-evaluation-plugin |
+| Link | https://github.com/INGInious/plugin-auto-evaluation |
 | Description | A plugin that allows students to evaluate their work with other students |
 | License | AGPL 3.0 |
-| Maintainer | UCLouvain - INGI
+| Maintainer | INGInious authors
 | Authors | Ludovic Taffin (@Drumor)
+
+| Name | LTI Resize IFrame |
+| :---- | ------------------------------------- |
+| Link | https://github.com/INGInious/plugin-lti-resize-iframe |
+| Description | A plugin that allows to adapt the LTI iframe height to fit to the task content |
+| License | AGPL 3.0 |
+| Maintainer | INGInious authors
+| Authors | François Michel (@francoismichel)
+
+| Name | Jetbrains IDEA Project Generator |
+| :---- | ------------------------------------- |
+| Link | https://github.com/INGInious/plugin-idea-project-generator |
+| Description | A plugin that creates IntelliJ skeleton projects archives |
+| License | AGPL 3.0 |
+| Maintainer | INGInious authors
+| Authors | Julien Bastin (@bastinjul)
